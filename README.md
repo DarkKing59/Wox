@@ -1,2 +1,2 @@
 # Theme "Deep Ocean" for Wox 
-![sample1]()
+![sample1](PreviewDeepOcean)
