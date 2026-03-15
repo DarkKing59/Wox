@@ -1,2 +1,2 @@
-# Theme for Wox "Deep Ocean"
+# Theme "Deep Ocean" for Wox 
 
