@@ -1,7 +1,7 @@
 # Theme "Deep Ocean" for Wox 
 ![PreviewDeepOcean](PreviewDeepOcean.png)
 
-#Install
+# Install
 Just place the `.Json` file in your Wox themes folder
 
 The theme folder is located at:
