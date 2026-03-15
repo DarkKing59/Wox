@@ -1,0 +1,16 @@
+------Просто переместите файл ".Json" в папку с темами Wox------
+
+		<<Где находится данная папка?>>
+Здесь ----> C:\Users\UserName\AppData\Local\Wox\app-1.3.524\Themes
+
+Ну или здесь ----> C:\Users\UserName\.wox\wox-user\themes
+
+
+
+
+------Just place the ".Json" file in your Wox themes folder------
+
+		<<"Where is this folder?>>
+Here ----> C:\Users\UserName\AppData\Local\Wox\app-1.3.524\Themes
+
+Well or here ----> C:\Users\UserName\.wox\wox-user\themes
